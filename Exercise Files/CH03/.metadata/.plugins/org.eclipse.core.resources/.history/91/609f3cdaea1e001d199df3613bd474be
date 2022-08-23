@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang ="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>landon toel :room resravion</title>
+</head>
+<body>
+<h1> welcone to the the reservation</h1>
+<table>
+<tr>
+<td>Room</td>
+<td>Room Number</td>
+<td>Guest</td>
+</tr>
+
+
+
+
+
+
+</table>
+</body>
+</html>

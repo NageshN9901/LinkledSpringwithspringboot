@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Landon Hotel</title>
+</head>
+<body>
+<h1><a href ="/guests">Guests  </a></h1>
+<p>a<a  href ="/reservation"></a></p>
+</body>
+</html>

@@ -1,0 +1,13 @@
+package com.frankmoley.lil.learningspring.web;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.frankmoley.lil.learningspring.util.DateUtils;
+
+@Controller
+@RequestMapping("/reservation")
+public class RoomReservationControler {
+private final DateUtils dateUtils;
+
+}
